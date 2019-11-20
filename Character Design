@@ -1,0 +1,116 @@
+Character Design v0.1
+
+Very High: 18
+High: 16
+Med: 12
+Low: 10
+Very Low: 8
+
+
+How many characters/classes/races?
+    Metalocalypse themed:
+        - Nathan, Human, Bard/Barbarian, "Bardbarian"
+            - Specials
+                - Attack: "Growl"
+                    - Does damage plus fear effect
+                - Ability: "Brutal"
+                    - Attacks have chance to insta-kill
+            - Stats
+                - High Str
+                - Low Dex
+                - High Con
+                - High Cha
+                - Med Int
+                - Med Luck
+
+        - Pickles, Human, Bard/Fighter, "Mosh pit Bard"
+            - Specials
+                - Attack: "Drum Solo"
+                    - Make x number of attacks, but slightly weaker.
+                - Ability: "Black out"
+                    - When health drops to 0, keep fighting for random number of turns
+                      and can be healed above 0 during this time.
+            - Stats
+                - High Str
+                - Mid Dex
+                - Very High Con
+                - Med Cha
+                - Med Int
+                - Med Luck
+
+        - Skwiskar, High Elf, Bard/Wizard, "Swiszards"
+            - Specials
+                - Attack: "Shred"
+                    - Make attack that cannot miss, for flat damage
+                - Ability: "Autofellatio"
+                    - Chance to automatically heal after defeating opponent
+            - Stats
+                - Very Low Str
+                - Very High Dex
+                - Low Con
+                - Very High Cha
+                - Low Int
+                - Med Luck
+
+        - Toki Wartooth, Wood Elf, Bard/Druid, "Bard of the Bees"
+            - Specials
+                - Attack: "Rhythm Player"
+                    - Does the same damage dealt to you on the last attack
+                    - e.g. hit with 20 pts, does 20 pts.
+                - Ability: "Innocence"
+                    - Immune to all effects
+            - Stats
+                - Med Str
+                - High Dex
+                - Very High Con
+                - Low Cha
+                - Low Int
+                - Very High Luck
+
+        - William Murderface, Orc, Rogue, "Bass Player"
+            - Specials
+                - Attack: "Penile Player"
+                    - Uses penis to make extra attack every turn (not very strong)
+                - Ability: "Disgusting Slob"
+                    - Enemies take damage when they make attempt a melee attack
+            - Stats
+                - Low Str
+                - Low Dex
+                - Med Con
+                - Zero Cha
+                - Very Low Int
+                - Zero Luck
+
+What stats do each character have?
+    - Health
+    - Str
+    - Con
+    - Dex
+    - Cha
+    - Int
+    - Luck
+    - Attack
+        - some default + str/dex/int + luck/?
+        - Critical Hits
+    - Armor/Dodge
+        - 10 + Str/Dex ????
+    - XP
+        - 10x * ln(x) ????
+    -
+
+Limits on character stats:
+    - Level cap
+    - Stat caps?
+    - Health limiting (no infinite healing)
+
+Items?
+    - Weapons
+    - Armor
+        - Jewelery?
+    - Potions
+
+Leveling system design?
+    - XP gain per enemy
+    - XP required per level
+    - Extra XP gain (per atk, per dmg)
+
